@@ -11,7 +11,7 @@ Multiple deep learning models (LSTM, BD-LSTM, Conv-LSTM, TCN, and more)
 
 Model selection, hyperparameter tuning, and backtesting
 
-A user-friendly Streamlit web app for interactive forecasting and visualization
+A user-friendly Streamlit web app for interactive forecasting and visualisation
 
 📈 Features
 Multivariate Inputs: Uses multiple cryptocurrencies, Gold, and their log-returns as features for more robust forecasting.
@@ -89,5 +89,3 @@ It is not financial advice and should not be used for trading decisions.
 
 📬 Contact
 Questions or want to collaborate? Open an issue or email me.
-
-Pro tip: You can further customize the README for badges, screenshots, or links to papers/notebooks!
