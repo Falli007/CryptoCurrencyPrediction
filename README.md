@@ -76,6 +76,9 @@ BD-LSTM outperformed baseline LSTM, Conv-LSTM, and ED-LSTM on several metrics (M
 
 Consistent, realistic 14-day forecasts—ideal for both EDA and production use.
 
+<img width="1908" height="869" alt="image" src="https://github.com/user-attachments/assets/d6dbb443-87e0-439a-8d8b-553c851f27e3" />
+
+
 📝 Credits
 Developed by Fredrick Alli
 
